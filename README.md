@@ -36,12 +36,13 @@ print("Coefficient:",regr.coef_)
 print("Intercept:",regr.intercept_)
 predictedCO2=regr.predict([[3300,1300]])
 print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
-
+```
 
 
 
 
 ## Output:
+
 ![image](https://github.com/SuryaR03/Multivariate-Linear-Regression/assets/147140237/f3ad48e2-2bfd-440b-9b2f-17b8df04b6f7)
 
 
